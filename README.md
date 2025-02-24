@@ -8,26 +8,24 @@
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=FernandaNoemiAM&color=00cf00" alt=""/>
 
 <h1>
-  Hola, soy. ¡Encantada de conocerte!
+  Hi! I'm Fernanda. Nice to meet you!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 ---
  <div id="header" align="left">
+### :woman_technologist: About me:
+Electrical Electronic Engineer, enjoing a career transition to Data Analytics <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-### :woman_technologist: Sobre mí :
-Ingeniera Eléctrica Eléctronica, disfrutando de una transición laboral al Data Analytics <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL, Python y Power BI, sin dejar de lado las herramientas de Microsoft.
-
+* :seedling: I'm learning :blue_book: and practicing :computer: SQL, Python and Power BI, while also keeping up with Microsoft's tools.
+  
 ---
-
-### :hammer_and_wrench: Lenguajes y herramientas :
+### :hammer_and_wrench: Languages and Tools:
 
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
-    <img decoding="async" src="https://img.shields.io/badge/SQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+    <img decoding="async" src="https://img.shields.io/badge/SQL-6DB33F?style=for-the-badge&logo=sql&logoColor=orange" alt="SQL"/>
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   </a>
@@ -39,5 +37,4 @@ Ingeniera Eléctrica Eléctronica, disfrutando de una transición laboral al Dat
 
 ---
 
-### :hammer_and_wrench: Lenguajes y herramientas :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FernandaNoemiAM&theme=dark&background=000000)](https://git.io/streak-stats)
