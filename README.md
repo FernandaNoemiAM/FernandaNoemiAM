@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/FernandaNoemiAM/FernandaNoemiAM/blob/main/Banner.png" width="800"/>
+  <img decoding="async" src="https://github.com/FernandaNoemiAM/FernandaNoemiAM/blob/main/Banner-2.jpeg" width="800"/>
 </div>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-alvarez-moctezuma)
